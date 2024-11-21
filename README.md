@@ -1,7 +1,6 @@
-# machine_learning
-Implementação de algoritmos de Aprendizado de Máquina em Python.
+# Implementação de algoritmos de Aprendizado de Máquina em Python.
 
-Os algoritmos utilizados foram:
+### Algoritmos Implementados:
 - KNN
 - Classificador de Bayes
 - Método dos mínimos Quadrados
